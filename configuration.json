@@ -1,0 +1,10 @@
+{
+  "eventName": "Spandana 7",
+  "ticketPrice": 3999,
+  "maxTickets": 60,
+  "ticketReleaseRate": 2,
+  "customerRetrievalRate": 3,
+  "maxCapacity": 70,
+  "numVendors": 4,
+  "numCustomers": 3
+}

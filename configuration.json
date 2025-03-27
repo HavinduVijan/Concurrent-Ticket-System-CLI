@@ -1,10 +1,10 @@
 {
-  "eventName": "Spandana 7",
-  "ticketPrice": 3999,
-  "maxTickets": 60,
+  "eventName": "Vijan",
+  "ticketPrice": 200,
+  "maxTickets": 100,
   "ticketReleaseRate": 2,
-  "customerRetrievalRate": 3,
-  "maxCapacity": 70,
-  "numVendors": 4,
-  "numCustomers": 3
+  "customerRetrievalRate": 1,
+  "maxCapacity": 200,
+  "numVendors": 2,
+  "numCustomers": 1
 }

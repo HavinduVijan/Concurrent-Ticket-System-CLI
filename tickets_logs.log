@@ -1,0 +1,126 @@
+Mar 28, 2025 12:29:17 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 1
+
+Mar 28, 2025 12:29:17 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 2
+
+Mar 28, 2025 12:29:17 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 1  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:18 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 2  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:19 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 3
+
+Mar 28, 2025 12:29:19 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 4
+
+Mar 28, 2025 12:29:19 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 3  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:20 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 4  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:21 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 5
+
+Mar 28, 2025 12:29:21 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 6
+
+Mar 28, 2025 12:29:21 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 5  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:22 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 6  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:23 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 7
+
+Mar 28, 2025 12:29:23 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 8
+
+Mar 28, 2025 12:29:23 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 7  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:24 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 8  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:25 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 9
+
+Mar 28, 2025 12:29:25 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 10
+
+Mar 28, 2025 12:29:25 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 9  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:26 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 10  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:27 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 11
+
+Mar 28, 2025 12:29:27 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 12
+
+Mar 28, 2025 12:29:27 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 11  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:28 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 12  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:29 AM TicketPool addTickets
+INFO: Vendor-1 has added 1 ticket to TicketPool.
+Current Ticket Status : 1    |    Vendor Ticket Count : 13
+
+Mar 28, 2025 12:29:29 AM TicketPool addTickets
+INFO: Vendor-2 has added 1 ticket to TicketPool.
+Current Ticket Status : 2    |    Vendor Ticket Count : 14
+
+Mar 28, 2025 12:29:29 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :1
+Ticket Details: ID = 13  |  Event Name = Vijan  |  Price = 200
+
+Mar 28, 2025 12:29:30 AM TicketPool buyTicket
+INFO: Customer-1 has purchased 1 ticket from TicketPool.
+Current Ticket Status :0
+Ticket Details: ID = 14  |  Event Name = Vijan  |  Price = 200
+
